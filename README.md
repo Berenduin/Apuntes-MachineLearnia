@@ -8,4 +8,5 @@ https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ
 
 Los archivos de este proyecto contienen el código que se puede ver en estos tutoriales. 
 
-Los archivos no se corresponden con el número de la serie del canal, sino que están agrupados por la temática que tratan. 
+Los archivos no se corresponden con el número de la serie del canal, sino que están agrupados por la temática que tratan.
+Cada uno de los vídeos a los que hacen referencia están mencionados dentro de cada notebook
